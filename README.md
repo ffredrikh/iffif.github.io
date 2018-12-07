@@ -1,1 +1,1 @@
-http://iffif.github.io/
+https://iffif.github.io/
